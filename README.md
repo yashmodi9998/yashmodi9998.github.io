@@ -1,4 +1,4 @@
-##yashmodi9998.github.io
+# yashmodi9998.github.io
 A repository for website design.
 
 ## Yash Modi's Website
@@ -17,3 +17,4 @@ Yash Modi
 
 ## GPL License
 Copyright 2023 Yash Modi all rights reserved.
+This website is designed by "**yashmodi9998.github.io**".
